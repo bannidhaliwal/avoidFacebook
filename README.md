@@ -1,2 +1,2 @@
-# avoidFacebook
-Avoid facebook and study
+# AvoidFacebook
+Simple plugin to avoid the facebook and study.
